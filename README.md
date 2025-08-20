@@ -43,7 +43,7 @@
 >
 > -- [Structured Programming with go to Statements](http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf), Donald Ervin Knuth
 
-### 柔軟性をもった「システム」を Lighthouse Studio 全体に偏在させる
+### 柔軟性をもった「システム」を Lighthouse Studio 全体に遍在させる
 
 デジタルな意味であれ、アナログな意味であれ、「システム」というものは諸刃の剣です。 Lighthouse Studio にとっての武器となりうると同時に、 Lighthouse Studio にとっての枷にもなりうるものです。
 
